@@ -14,6 +14,7 @@
 ### 3.檢視遊戲與繳交作業連結到平台
 - 點進去網頁右側的 `Settings按鈕`(齒輪圖示)，
 - 找到 `GitHub Pages`項目
+- 找到 `Source` 選項中選擇 `gh-pages` 再點 `save` 儲存（如果已經正確就不用設定）
 - 找到敘述 `Your site is published at : http://ntustprogramming101.github.io/1092assign1-你的ID/` 點入連結確認連結無誤，
 - 複製此連結，並到 [Programming101](https://programming101.ntust.edu.tw/#) 繳交。
 
